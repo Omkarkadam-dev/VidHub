@@ -39,7 +39,7 @@ body {
 }
 
 .search {
-    margin-left: 330px
+    margin-left: 610px
 }
 
 .search input {
@@ -69,7 +69,7 @@ body {
 }
 
 .create {
-    margin-left: 340px;
+    margin-left: 30px;
     margin-right: 10px;
 }
 
@@ -90,10 +90,303 @@ body {
 
 .profile {
     margin-left: 20px;
-    
+
 }
 
 .profile i {
     color: white;
     font-size: 25px;
+}
+
+.slidebar {
+    height: 100vh;
+    width: 200px;
+    background-color: black;
+
+
+}
+
+.home i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+
+}
+
+.home a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.quickflicks {
+    margin-top: 20px;
+}
+
+.quickflicks i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.quickflicks a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.subscription {
+    margin-top: 20px;
+}
+
+.subscription i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.subscription a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.line {
+    height: 1px;
+    width: 200px;
+    background-color: white;
+    margin-top: 10px;
+    opacity: o.5;
+}
+
+.you {
+    margin-top: 20px;
+}
+
+.you i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.you a {
+    color: white;
+    margin-left: 10px;
+
+}
+
+.account {
+    margin-top: 20px;
+}
+
+.account i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.account a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.video {
+    margin-top: 20px;
+}
+
+.video i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.video a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.likes {
+    margin-top: 20px;
+}
+
+.likes i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.likes a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.history {
+    margin-top: 20px;
+}
+
+.history i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.history a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.security {
+    margin-top: 20px;
+}
+
+.security i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.security a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.download {
+    margin-top: 20px;
+}
+
+.download i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.download a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.line {
+    height: 1px;
+    width: 200px;
+    background-color: white;
+    margin-top: 10px;
+    opacity: o.5;
+}
+
+.explore {
+    margin-top: 20px;
+}
+
+.explore i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.explore a {
+    color: white;
+    margin-left: 10px;
+
+}
+
+.trending {
+    margin-top: 20px;
+}
+
+.trending i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.trending a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.gaming {
+    margin-top: 20px;
+}
+
+.gaming i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.gaming a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.sports {
+    margin-top: 20px;
+}
+
+.sports i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.sports a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.news {
+    margin-top: 20px;
+}
+
+.news i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.news a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.courses {
+    margin-top: 20px;
+}
+
+.courses i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.courses a {
+    color: white;
+    margin-left: 25px;
+
+}
+
+.films {
+    margin-top: 20px;
+}
+
+.films i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.films a {
+    color: white;
+    margin-left: 25px;
+
 }
