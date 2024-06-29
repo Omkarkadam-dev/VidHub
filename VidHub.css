@@ -14,21 +14,86 @@ body {
     background-color: aliceblue;
 
 }
-.nav{
+
+.nav {
     height: 80px;
     background-color: black;
     display: flex;
     align-items: center;
+
 }
+
 .icon {
     margin-left: 20px;
 
 }
-.icon i{
-font-size: 25px;
-color: white;
+
+.icon i {
+    font-size: 25px;
+    color: white;
 
 }
-.image{
-    margin-left :30px;
+
+.image {
+    margin-left: 30px;
+}
+
+.search {
+    margin-left: 330px
+}
+
+.search input {
+    height: 40px;
+    width: 500px;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    opacity: 0.5;
+    border-radius: 30px;
+    padding-left: 20px;
+}
+
+.search input::placeholder {
+    color: white;
+
+}
+
+.mic {
+    margin-left: 20px;
+}
+
+.mic i {
+    color: white;
+    font-size: 25px;
+
+}
+
+.create {
+    margin-left: 340px;
+    margin-right: 10px;
+}
+
+.create i {
+    color: white;
+    font-size: 25px;
+}
+
+.notification {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.notification i {
+    color: white;
+    font-size: 25px;
+}
+
+.profile {
+    margin-left: 20px;
+    
+}
+
+.profile i {
+    color: white;
+    font-size: 25px;
 }
