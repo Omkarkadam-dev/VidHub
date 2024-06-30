@@ -99,10 +99,9 @@ body {
 }
 
 .slidebar {
-    height: 100vh;
+    height: 110vh;
     width: 200px;
     background-color: black;
-
 
 }
 
@@ -116,7 +115,7 @@ body {
 .home a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .quickflicks {
@@ -132,7 +131,7 @@ body {
 .quickflicks a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .subscription {
@@ -148,7 +147,7 @@ body {
 .subscription a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .line {
@@ -172,7 +171,7 @@ body {
 .you a {
     color: white;
     margin-left: 10px;
-
+    text-decoration: none;
 }
 
 .account {
@@ -188,7 +187,7 @@ body {
 .account a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .video {
@@ -204,7 +203,7 @@ body {
 .video a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .likes {
@@ -220,7 +219,7 @@ body {
 .likes a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .history {
@@ -236,7 +235,7 @@ body {
 .history a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .security {
@@ -252,7 +251,7 @@ body {
 .security a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .download {
@@ -268,7 +267,7 @@ body {
 .download a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .line {
@@ -292,7 +291,7 @@ body {
 .explore a {
     color: white;
     margin-left: 10px;
-
+    text-decoration: none;
 }
 
 .trending {
@@ -308,7 +307,7 @@ body {
 .trending a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .gaming {
@@ -324,7 +323,7 @@ body {
 .gaming a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .sports {
@@ -340,7 +339,7 @@ body {
 .sports a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .news {
@@ -356,7 +355,7 @@ body {
 .news a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .courses {
@@ -372,7 +371,7 @@ body {
 .courses a {
     color: white;
     margin-left: 25px;
-
+    text-decoration: none;
 }
 
 .films {
@@ -388,5 +387,81 @@ body {
 .films a {
     color: white;
     margin-left: 25px;
+    text-decoration: none;
+}
 
+.line {
+    height: 1px;
+    width: 200px;
+    background-color: white;
+    margin-top: 10px;
+    opacity: o.5;
+}
+
+.setting {
+    margin-top: 20px;
+}
+
+.setting i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+
+}
+
+.setting a {
+    color: white;
+    margin-left: 25px;
+    text-decoration: none;
+}
+
+.feedback {
+    margin-top: 20px;
+}
+
+.feedback i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.feedback a {
+    color: white;
+    margin-left: 25px;
+    text-decoration: none;
+}
+
+.help {
+    margin-top: 20px;
+}
+
+.help i {
+    color: white;
+    size: 25px;
+    margin-left: 20px;
+}
+
+.help a {
+    color: white;
+    margin-left: 25px;
+    text-decoration: none;
+}
+
+.line-1{
+    margin-left: 200px;
+    
+}
+
+.line-1 button{
+    align-items: baseline;
+    margin-left: 20px;
+    
+}
+.line-2{
+    height: 350px;
+    width: 1050px;
+    background-color: rgb(205, 70, 70);
+    display: flex;
+    margin-left: 200px;
+    
 }
