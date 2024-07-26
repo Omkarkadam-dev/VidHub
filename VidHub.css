@@ -102,14 +102,12 @@ body {
     height: 110vh;
     width: 200px;
     background-color: black;
-
 }
 
 .home i {
     color: white;
     size: 25px;
     margin-left: 20px;
-
 }
 
 .home a {
@@ -445,23 +443,4 @@ body {
     color: white;
     margin-left: 25px;
     text-decoration: none;
-}
-
-.line-1{
-    margin-left: 200px;
-    
-}
-
-.line-1 button{
-    align-items: baseline;
-    margin-left: 20px;
-    
-}
-.line-2{
-    height: 350px;
-    width: 1050px;
-    background-color: rgb(205, 70, 70);
-    display: flex;
-    margin-left: 200px;
-    
 }
